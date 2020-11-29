@@ -1,0 +1,26 @@
+body {
+background-color: rgb(255, 235, 205);
+}
+
+h1 {
+border: solid 0.3em red;
+border-bottom-color: red;
+width: auto;
+color: 	rgb(220, 20, 60);
+text-align: center;
+
+}
+
+h2 {
+border-top: 3px solid red;
+border-bottom: 3px solid red;
+}
+
+.end{
+border-top: 3px solid red;
+
+}
+
+.liens{
+  color: red;
+}
